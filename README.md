@@ -33,7 +33,7 @@
 
     button,
     input,
-    textarea {
+    textarea {t
       font: inherit;
     }
 
